@@ -1,0 +1,27 @@
+<templateSet group="output">
+  <template name="syse" value="System.err.println($END$);" description="Prints a string to System.err" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="syso" value="System.out.println($END$);" description="Prints a string to System.out" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="try" value="try {&#10;&#9;$END$&#10;} catch (Exception e) {&#10;    e.printStackTrace();&#10;}" description="Exception shortcut key" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="sw" value="switch (key) {&#10;    case value:&#10;        &#10;        break;&#10;    default:&#10;        break;&#10;}" description="loop" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="toString" value="/**&#10;* {@inheritDoc}&#10;*/&#10;@Override&#10;public java.lang.String toString()&#10;{&#10;final java.lang.StringBuilder sb = new java.lang.StringBuilder(&quot;$classname&quot;).append('[')&#10;#set ($i = 0)&#10;#foreach ($member in $members)&#10;    #if ($i == 0)&#10;        #if ($member.string)&#10;        .append(&quot;$member.name=&quot;)&#10;        #else&#10;        .append(&quot;$member.name=&quot;)&#10;        #end&#10;    #else&#10;        #if ($member.string)&#10;        .append(&quot;,$member.name=&quot;)&#10;        #else&#10;        .append(&quot;,$member.name=&quot;)&#10;        #end&#10;    #end&#10;    #if ($member.primitiveArray)&#10;    if ($member.name == null)&#10;    .append(&quot;null&quot;)&#10;    else {&#10;    .append('[');&#10;    for (int i = 0; i &lt; $member.name .length; ++i)&#10;    .append(i == $member.name .length -1 ? &quot;&quot; : &quot;, &quot;).append($member.name [i])&#10;    .append(']');&#10;    }&#10;    #elseif ($member.objectArray)&#10;    .append($member.name == null ? &quot;null&quot; : java.util.Arrays.asList($member.name).toString())&#10;    #elseif ($member.string)&#10;    .append($member.accessor)&#10;    #else&#10;    .append($member.accessor)&#10;    #end&#10;    #set ($i = $i + 1)&#10;#end&#10;.append(']');&#10;return sb.toString();&#10;}" description="toString" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>

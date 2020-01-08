@@ -1,0 +1,29 @@
+<application>
+  <component name="AppStorage">
+    <histories>
+      <item value="Base Service" />
+      <item value="Dept Service Impl" />
+      <item value="修改开闸时间水位" />
+      <item value="Base Client" />
+      <item value="Err Log Status" />
+      <item value="Sold out" />
+      <item value="0 失败 1 成功 2 登录名重复 用户已存在" />
+      <item value="新增用户失败" />
+      <item value="新增 用户 角色" />
+      <item value="insert User Org" />
+      <item value="insert User Role" />
+      <item value="自定义" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="14" />
+        <entry key="ENGLISH" value="12" />
+        <entry key="CHINESE_TRADITIONAL" value="4" />
+        <entry key="FRENCH" value="1" />
+      </map>
+    </option>
+  </component>
+  <component name="Settings">
+    <option name="ignoreRegExp" value="" />
+  </component>
+</application>
