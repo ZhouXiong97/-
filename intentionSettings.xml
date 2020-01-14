@@ -1,0 +1,7 @@
+<application>
+  <component name="IntentionManagerSettings">
+    <ignoreAction name="Language injection/Inject language or reference" />
+    <ignoreAction name="Java/Declaration/Split declaration" />
+    <ignoreAction name="Java/Strings/Copy string concatenation text to the clipboard" />
+  </component>
+</application>
