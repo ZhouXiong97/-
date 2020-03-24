@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="alert Close" />
       <item value="Base Service" />
       <item value="Dept Service Impl" />
       <item value="修改开闸时间水位" />
