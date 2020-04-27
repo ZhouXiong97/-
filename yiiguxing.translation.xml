@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Open in HTTP Request Editor" />
       <item value="alert Close" />
       <item value="Base Service" />
       <item value="Dept Service Impl" />
