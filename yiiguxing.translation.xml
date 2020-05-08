@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Cannot resolve property 'typeId'" />
       <item value="B" />
       <item value="Duplicated prefix " />
       <item value="Open in HTTP Request Editor" />
