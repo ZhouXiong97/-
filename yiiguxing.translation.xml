@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="B" />
       <item value="Duplicated prefix " />
       <item value="Open in HTTP Request Editor" />
       <item value="alert Close" />
@@ -20,7 +21,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="39" />
-        <entry key="ENGLISH" value="12" />
+        <entry key="ENGLISH" value="13" />
         <entry key="CHINESE_TRADITIONAL" value="5" />
         <entry key="FRENCH" value="1" />
       </map>
