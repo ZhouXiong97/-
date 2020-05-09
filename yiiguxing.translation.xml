@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="'Sort(org.springframework.data.domain.Sort.Direction, java.util.List&lt;java.lang.String&gt;)' has private access in 'org.springframework.data.domain.Sort'" />
       <item value="No executable code found at line 24 in class com.from.project.service.impl.CircumstancesServiceImpl" />
       <item value="Cannot resolve property 'typeId'" />
       <item value="B" />
