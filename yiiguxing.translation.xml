@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="unexpected token: count near line 1, column 8 " />
+      <item value="'Pumproom' domain type or valid projection interface expected here" />
       <item value="Boolean method 'checkIp' is always inverted" />
       <item value="服务器" />
       <item value="org.hibernate.TransientPropertyValueException: object references an unsaved transient instance - save the transient instance before flushing : com.from.project.entity.Take.communityByCoId -&gt; com.from.project.entity.Community; nested exception is java.lang.IllegalStateException: org.hibernate.TransientPropertyValueException: object references an unsaved transient instance - save the transient instance before flushing : com.from.project.entity.Take.communityByCoId -&gt; com.from.project.entity.Community" />
