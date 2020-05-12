@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="TotalElements" />
+      <item value="TotalPages" />
+      <item value="Named parameter not bound : pumpId; nested exception is org.hibernate.QueryException: Named parameter not bound : pumpId" />
       <item value="expecting EOF, found ')'" />
       <item value="Cannot resolve constructor" />
       <item value="Unable to locate appropriate constructor on class" />
