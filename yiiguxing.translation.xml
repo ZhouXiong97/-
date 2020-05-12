@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="服务器" />
       <item value="org.hibernate.TransientPropertyValueException: object references an unsaved transient instance - save the transient instance before flushing : com.from.project.entity.Take.communityByCoId -&gt; com.from.project.entity.Community; nested exception is java.lang.IllegalStateException: org.hibernate.TransientPropertyValueException: object references an unsaved transient instance - save the transient instance before flushing : com.from.project.entity.Take.communityByCoId -&gt; com.from.project.entity.Community" />
       <item value="'Sort(org.springframework.data.domain.Sort.Direction, java.util.List&lt;java.lang.String&gt;)' has private access in 'org.springframework.data.domain.Sort'" />
       <item value="No executable code found at line 24 in class com.from.project.service.impl.CircumstancesServiceImpl" />
@@ -25,7 +26,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="39" />
-        <entry key="ENGLISH" value="13" />
+        <entry key="ENGLISH" value="14" />
         <entry key="CHINESE_TRADITIONAL" value="5" />
         <entry key="FRENCH" value="1" />
       </map>
