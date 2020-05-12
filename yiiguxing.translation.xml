@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="expecting EOF, found ')'" />
+      <item value="Cannot resolve constructor" />
+      <item value="Unable to locate appropriate constructor on class" />
       <item value="Named parameter not bound : coId; nested exception is org.hibernate.QueryException: Named parameter not bound : coId" />
       <item value="unexpected token: count near line 1, column 8 " />
       <item value="'Pumproom' domain type or valid projection interface expected here" />
