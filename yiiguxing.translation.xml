@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Named parameter not bound : coId; nested exception is org.hibernate.QueryException: Named parameter not bound : coId" />
       <item value="unexpected token: count near line 1, column 8 " />
       <item value="'Pumproom' domain type or valid projection interface expected here" />
       <item value="Boolean method 'checkIp' is always inverted" />
