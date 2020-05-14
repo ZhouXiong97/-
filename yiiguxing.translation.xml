@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Expected 2 arguments but found 1" />
       <item value="Method invocation 'substring' may produce 'NullPointerException'" />
       <item value="Contents of StringBuilder 'value' are updated, but never queried" />
       <item value="'split.length - 0' can be replaced with 'split.length'" />
