@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Method invocation 'substring' may produce 'NullPointerException'" />
+      <item value="Contents of StringBuilder 'value' are updated, but never queried" />
+      <item value="'split.length - 0' can be replaced with 'split.length'" />
       <item value="行" />
       <item value="columns" />
       <item value="'catch' branch identical to 'FileNotFoundException' branch" />
@@ -41,8 +44,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="40" />
-        <entry key="ENGLISH" value="16" />
+        <entry key="CHINESE" value="41" />
+        <entry key="ENGLISH" value="17" />
         <entry key="CHINESE_TRADITIONAL" value="5" />
         <entry key="FRENCH" value="1" />
       </map>
