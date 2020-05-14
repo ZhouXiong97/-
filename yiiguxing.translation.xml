@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="'StringBuffer sb' may be declared as 'StringBuilder'" />
+      <item value="Condition 'null == file.getBytes()' is always 'false' when reached" />
       <item value="Cannot resolve configuration property 'server.session-timeout'" />
       <item value="TotalElements" />
       <item value="TotalPages" />
