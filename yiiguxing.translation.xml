@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Cannot resolve configuration property 'server.session-timeout'" />
       <item value="TotalElements" />
       <item value="TotalPages" />
       <item value="Named parameter not bound : pumpId; nested exception is org.hibernate.QueryException: Named parameter not bound : pumpId" />
