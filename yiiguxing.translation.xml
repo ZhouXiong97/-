@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Current request is not a multipart request" />
+      <item value="The call to 'get' always fails as index is out of bounds" />
       <item value="Content type 'application/json' not supported" />
       <item value=" Current request is not a multipart request" />
       <item value="Duplicated code fragment (6 lines long)" />
