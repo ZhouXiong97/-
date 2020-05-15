@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Content type 'application/json' not supported" />
+      <item value=" Current request is not a multipart request" />
       <item value="Duplicated code fragment (6 lines long)" />
       <item value="Instantiation of utility class 'StringUtil'" />
       <item value="Cannot resolve symbol 'length'" />
