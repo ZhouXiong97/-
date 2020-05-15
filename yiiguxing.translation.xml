@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Instantiation of utility class 'StringUtil'" />
       <item value="Cannot resolve symbol 'length'" />
       <item value="Expected 2 arguments but found 1" />
       <item value="Method invocation 'substring' may produce 'NullPointerException'" />
